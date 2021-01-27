@@ -1,0 +1,26 @@
+body{
+    background-color:white ;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.text-start
+{
+    font-size: 14px;
+}
+.col-9
+{
+    border-top:1px solid whitesmoke;
+    border-bottom:1px solid whitesmoke;
+    width:100%;
+
+}
+img{
+    width: 100%;
+
+}
+u{
+    
+        text-decoration: underline;
+        text-decoration-color: green;
+      
+}

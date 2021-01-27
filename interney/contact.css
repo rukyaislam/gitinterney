@@ -1,0 +1,82 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body
+{
+background-color: #eeece7;
+font-family: 'Lato', sans-serif;
+
+font-family: 'Teko', sans-serif;
+}
+
+.fullbody
+{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+bold
+{
+    font-size: 28px;
+
+}
+.googlemap
+{
+    width:100%;
+}
+.map_part
+{
+  
+    
+   border: 5px solid white;
+   
+   width: 742px;
+   height: 462px;
+}
+
+
+
+p
+{
+  text-align: center;
+  
+ 
+color: black;
+
+font-size: 30px;
+
+}
+.form-controlbigmassage
+{
+    height: 1000px;
+}
+
+
+
+
+
+
+
+label
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.adrressTophone
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    margin-left:4%;
+line-height: 30px;
+    
+}
+
+
+
+
+
+
+
+
+
