@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+body
+{
+    font-family: 'Oswald', sans-serif;
+    margin-left: 9%;
+}
+img{
+    border:hidden;
+    width:153px;
+    height: 150px;
+    margin-bottom: 1px;
+}
+.secondone
+{
+    margin-top: 14px;
+    margin-bottom: 4%;
+}
